@@ -1,0 +1,10 @@
+Thomas Hervieu -> Completed the Simulation Application portion of this assignment
+
+My partner dropped the class, so I tackled this homework alone.
+
+I used the sample simulation engine that I modified to run my application.
+
+##############################
+This is my revision
+I got the code to work properly by only using 3 event types since north and south are symmetric
+I refined my cases as well.
