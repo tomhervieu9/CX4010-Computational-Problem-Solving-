@@ -1,0 +1,3 @@
+Isac Thomas: Completed the entirety of the Kmean code/algorithm.
+
+Thomas Hervieu: Completed the entirety of the KNN code/algorithm (tested on a sample Kmeans output that I created synthetically).
